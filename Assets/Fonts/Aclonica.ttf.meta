@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ffe075143b51943fd87531c030cb1639
+timeCreated: 1485075693
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 32
+  forceTextureCase: 0
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aclonica
+  fontNames:
+  - Aclonica
+  fallbackFontReferences: []
+  customCharacters: 0123456789
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

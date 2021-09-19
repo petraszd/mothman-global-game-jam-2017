@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Moth
+  - Catcher
+  - Bat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Catcher
+  - Moths
+  - Bats
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Mothman
+    uniqueID: 4226496671
+    locked: 0
+  - name: Bat
+    uniqueID: 3702106395
+    locked: 0
+  - name: Moths
+    uniqueID: 2146120987
+    locked: 0
+  - name: Effects
+    uniqueID: 1526033797
+    locked: 0
+  - name: Wave
+    uniqueID: 3463591533
+    locked: 0
+  - name: Blackness
+    uniqueID: 1625843207
+    locked: 0

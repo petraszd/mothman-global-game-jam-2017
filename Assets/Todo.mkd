@@ -1,0 +1,11 @@
+- Deploy to mobile
+- Deploy to desktop
+- simulateMouseWithTouches
+
+# Super nice to have
+
+- Padidinti generavimo nutupimo zona
+- "Finger Inactive" pulsuoja ramybes busenoje
+- Kartais prisigeneruoja perdaug, jeigu ijungi OnFly detectoriu
+- "Moth" labiau linkes būti kairėje
+- "Moth" skrenda tik prieš laikrodžio rodyklę
